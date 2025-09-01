@@ -8,16 +8,18 @@
 - Gmail: Open the email, click the three dots (⋮), and select Show original.
 <br>
 <br>
-<img width="1838" height="884" alt="image" src="https://github.com/user-attachments/assets/59c07b22-a8f2-4e15-a518-43f4d856369a" />
+<img width="1919" height="1014" alt="Screenshot 2025-09-01 152211" src="https://github.com/user-attachments/assets/6c0164e1-ffd1-4e03-b610-2c0d34f26f23" />
+
 
 <br>
 <br>
+<img width="1919" height="1025" alt="Screenshot 2025-09-01 152302" src="https://github.com/user-attachments/assets/d8e0e95d-f7e4-4813-ab10-db7edc052a27" />
 
 
 - Select all the text in the header and copy it.
 
 <br>
-<img width="1505" height="873" alt="image" src="https://github.com/user-attachments/assets/9b36c7f4-0340-4176-9e3f-aff1731f5162" />
+<img width="1443" height="910" alt="Screenshot 2025-09-01 152317" src="https://github.com/user-attachments/assets/a7038732-8c47-4062-8636-bb01f05657c7" />
 
 <br>
 <br>
@@ -29,7 +31,7 @@
  <br>
 <br>
 
-  <img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/104fe018-c6d7-40e4-be98-4848a6b1b177" />
+  <img width="1919" height="913" alt="Screenshot 2025-09-01 152425" src="https://github.com/user-attachments/assets/b0f9c362-16a7-4760-a10a-3e82882f8ca0" />
 
 <br>
 <br>
@@ -42,7 +44,7 @@ Click the "Analyze" button to get a parsed, easy-to-read report.
 <br>
 <br>
 
-<img width="1917" height="877" alt="image" src="https://github.com/user-attachments/assets/af5f17b5-0cfa-4a8c-b36d-929e32a6b8c6" />
+<img width="1918" height="918" alt="Screenshot 2025-09-01 152444" src="https://github.com/user-attachments/assets/48297971-f5c1-4421-9d71-5f40c600bb4e" />
 
 ### Step 3: Analyze The Report
 - This is the most critical step. In the analyzer's report, look for the SPF, DKIM, and DMARC results.
@@ -56,7 +58,8 @@ Click the "Analyze" button to get a parsed, easy-to-read report.
 - Check DKIM Status: DKIM Alignment passed, but DKIM Authenticated failed (❌). This is a critical finding and indicates a problem with the email's digital signature.
 <br>
 <br>
-<img width="1907" height="863" alt="image" src="https://github.com/user-attachments/assets/869034eb-60a2-4b4d-b61b-714862cbf0f3" />
+<img width="1893" height="912" alt="Screenshot 2025-09-01 152503" src="https://github.com/user-attachments/assets/58719013-dae2-4a13-bbaa-39a632b80774" />
+
 
 <br>
 <br>
@@ -71,11 +74,12 @@ Click the "Analyze" button to get a parsed, easy-to-read report.
 - Conclusion: Since the email came from a Mailgun server, which is authorized in the SPF record, the SPF check passed.
   <br>
   <br>
-<img width="1917" height="874" alt="image" src="https://github.com/user-attachments/assets/9d3277b3-89e8-423a-a351-095dcef1f0a6" />
+<img width="1898" height="909" alt="Screenshot 2025-09-01 152523" src="https://github.com/user-attachments/assets/0ed3e1bb-874c-4da9-b5a2-376f8a71f1d2" />
+
 <br>
 <br>
 
 ### Analyze the DKIM Failure
 
 <br>
-<img width="1885" height="786" alt="image" src="https://github.com/user-attachments/assets/c1d13cf5-5ccf-4e59-8ca2-7a252dc37c77" />
+<img width="1893" height="907" alt="Screenshot 2025-09-01 152547" src="https://github.com/user-attachments/assets/f2f19dcc-e8d3-4bd4-a204-e4487014f8bf" />

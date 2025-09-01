@@ -11,8 +11,8 @@
 
   <br>
    <br>
-  <p align="center">
-  <img width="1155" height="688" alt="image" src="https://github.com/user-attachments/assets/28b8635a-a3d2-4efc-9ed4-ab4b39f96ce5" />
+  <img width="1919" height="1018" alt="Screenshot 2025-09-01 151711" src="https://github.com/user-attachments/assets/d450796d-1f1a-4606-abaf-76f876170a4c" />
+
 
   </p>
   <br>
@@ -21,8 +21,8 @@
 - Click the blue shark fin icon 🦈 in the top-left corner to start the capture. Wireshark will immediately begin capturing all traffic passing through that interface.
  <br>
    <br>
-  <p align="center">
-  <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/fe34867f-be37-49ee-b73d-c87bc3f51c76" />
+  <img width="1916" height="1023" alt="Screenshot 2025-09-01 151728" src="https://github.com/user-attachments/assets/5beb2254-31ca-49ab-97a9-475f92445a48" />
+
  </p>
   <br>
   <br>
@@ -40,8 +40,8 @@
 
  <br>
    <br>
-  <p align="center">
-<img width="1559" height="963" alt="image" src="https://github.com/user-attachments/assets/1a5dd68e-d041-414c-86ec-eef4794d0e46" />
+  <img width="1919" height="1020" alt="Screenshot 2025-09-01 151816" src="https://github.com/user-attachments/assets/60627b17-bf76-4501-9c43-4160426fdc91" />
+
  </p>
   
   
@@ -55,8 +55,7 @@
 
  <br>
    <br>
-  <p align="center">
-<img width="1919" height="517" alt="image" src="https://github.com/user-attachments/assets/24898bfb-4f11-4c3c-83aa-ac994cb3fdde" />
+  <img width="1919" height="1023" alt="Screenshot 2025-09-01 151932" src="https://github.com/user-attachments/assets/9a5f0b8c-8670-4d34-94ef-2055375bd444" />
 
  </p>
   <br>
@@ -76,8 +75,8 @@ HTML Form URL Encoded
 
  <br>
    <br>
-  <p align="center">
-  <img width="921" height="561" alt="image" src="https://github.com/user-attachments/assets/b4403935-01b3-4678-81c9-bd1ad67c05bf" />
+  <img width="1919" height="883" alt="Screenshot 2025-09-01 152044" src="https://github.com/user-attachments/assets/c0f7abb1-7c4a-4cf2-a6fa-a156e280c0ce" />
+
  </p>
   <br>
   <br>

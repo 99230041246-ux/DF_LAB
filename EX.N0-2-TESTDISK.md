@@ -20,8 +20,8 @@ Windows: Download the executable from the official CGSecurity website.
 - Select the [Create] option to generate a log file of the recovery session. This is helpful for future reference or troubleshooting.
 <br>
 <br>
-<p align="center">
-<img width="1106" height="635" alt="image" src="https://github.com/user-attachments/assets/e8a9203d-b855-436d-93b1-acc965956c93" />
+
+<img width="1158" height="688" alt="Screenshot 2025-09-01 145355" src="https://github.com/user-attachments/assets/f8a1cdc3-d68d-4b2f-866d-9cc9e617f10f" />
 
 </p>
 <br>
@@ -34,8 +34,8 @@ Windows: Download the executable from the official CGSecurity website.
 
 <br>
 <br>
-<p align="center">
-<img width="1098" height="635" alt="image" src="https://github.com/user-attachments/assets/ab73948e-e51b-40e4-8ee7-018213426f0e" />
+
+<img width="1137" height="664" alt="Screenshot 2025-09-01 145411" src="https://github.com/user-attachments/assets/49bf2902-457e-4900-b804-793fefa13015" />
 
 </p>
 <br>
@@ -49,8 +49,7 @@ Windows: Download the executable from the official CGSecurity website.
 - The default value is usually correct. Confirm the selection by pressing Enter.
 <br>
 <br>
-<p align="center">
-<img width="1097" height="644" alt="image" src="https://github.com/user-attachments/assets/3c4156ec-95bc-400e-8bfb-8bfcf0d1955c" />
+<img width="1225" height="698" alt="Screenshot 2025-09-01 145421" src="https://github.com/user-attachments/assets/4baa26b0-1f93-4332-b64e-81cbe1e08408" />
 
 </p>
 <br>
@@ -60,8 +59,7 @@ Windows: Download the executable from the official CGSecurity website.
 - From the main menu, choose [Analyse] and press Enter.
 <br>
 <br>
-<p align="center">
-<img width="1103" height="633" alt="image" src="https://github.com/user-attachments/assets/6533e8ad-c50d-4d0e-85df-ed8d363c0218" />
+<img width="1173" height="674" alt="Screenshot 2025-09-01 145428" src="https://github.com/user-attachments/assets/c47bf706-21f8-4ff5-a4c7-66989f649d7a" />
 
 </p>
 <br>
@@ -74,8 +72,8 @@ Windows: Download the executable from the official CGSecurity website.
 
 <br>
 <br>
-<p align="center">
-<img width="1098" height="637" alt="image" src="https://github.com/user-attachments/assets/c4d01faa-441c-4789-93d7-c8ac5b6ec88b" />
+<img width="1126" height="647" alt="Screenshot 2025-09-01 145533" src="https://github.com/user-attachments/assets/4bb2e85c-9a23-4fbd-9ed4-02539147f8db" />
+
 </p>
 <br>
 <br>
@@ -91,8 +89,7 @@ Windows: Download the executable from the official CGSecurity website.
 
 -<br>
 <br>
-<p align="center"> 
-<img width="1099" height="637" alt="image" src="https://github.com/user-attachments/assets/5f7a6814-4f1d-425a-bd40-579ebc1a9671" />
+<img width="1169" height="675" alt="Screenshot 2025-09-01 145541" src="https://github.com/user-attachments/assets/baea729e-16c1-42f9-94b9-94bdb0d94b64" />
 
 </p>
 <br>
@@ -113,8 +110,7 @@ Windows: Download the executable from the official CGSecurity website.
 
     <br>
 <br>
-<p align="center">
-<img width="1100" height="638" alt="image" src="https://github.com/user-attachments/assets/bec038c0-7c0d-4e7c-a0a0-84dbeee45bae" />
+<img width="1127" height="655" alt="Screenshot 2025-09-01 145600" src="https://github.com/user-attachments/assets/ceebaec2-3afd-4263-ae13-6ee32213098e" />
 
 </p>
 <br>
@@ -127,8 +123,7 @@ Windows: Download the executable from the official CGSecurity website.
 
 <br>
 <br>
-<p align="center">
-<img width="1089" height="643" alt="image" src="https://github.com/user-attachments/assets/0c163668-bbd8-4220-a926-8255f93e49a0" />
+<img width="1162" height="661" alt="Screenshot 2025-09-01 145627" src="https://github.com/user-attachments/assets/a6771875-0d00-4dfa-a7af-d9fea7221c0d" />
 
 <br>
 <br>
